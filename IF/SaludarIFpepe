@@ -1,0 +1,3 @@
+nombreUsuario = "Alex" /* Modifica esta línea */ 
+if (nombreUsuario == "Alex") 
+  console.log("Bienvenido, Alex")
