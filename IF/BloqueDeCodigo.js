@@ -2,7 +2,7 @@
 por lo que el código no funciona como debería. ¿Puedes corregirlo? 
 Sólo agrega las llaves {} donde corresponda.*/
 
-formulario = "imcompleto"
+formulario = "incompleto"
 if (formulario == "completo") {
 console.log("Formulario completo")
 console.log("Enviando email")
